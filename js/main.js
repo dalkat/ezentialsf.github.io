@@ -318,7 +318,6 @@
         clMenuOnScrolldown();
         clOffCanvas();
         clPhotoswipe();
-        clStatCount();
         clMasonryFolio();
         clSlickSlider();
         clSmoothScroll();
