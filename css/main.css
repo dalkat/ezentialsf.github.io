@@ -39,7 +39,7 @@
  *    ## about process
  *  # services
  *    ## services list
- *  # works
+ *  # order
  *    ## bricks/masonry
  *  # testimonials
  *  # stats 
@@ -2453,10 +2453,10 @@ html.no-csstransitions .home-content__main {
 
 
 /* ===================================================================
- * # works
+ * # order
  *
  * ------------------------------------------------------------------- */
-.s-works {
+.s-order {
   background: #ffffff;
   padding: 18rem 0 24rem;
   position: relative;
@@ -2640,7 +2640,7 @@ html.no-csstransitions .home-content__main {
 
 /* ------------------------------------------------------------------- 
  * responsive:
- * works
+ * order
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1500px) {
   .masonry-wrap {
@@ -2673,7 +2673,7 @@ html.no-csstransitions .home-content__main {
   }
 }
 @media only screen and (max-width: 1200px) {
-  .s-works {
+  .s-order {
     padding: 15rem 0 22.2rem;
   }
 }
@@ -2689,7 +2689,7 @@ html.no-csstransitions .home-content__main {
   }
 }
 @media only screen and (max-width: 800px) {
-  .s-works {
+  .s-order {
     padding: 12rem 0 21rem;
   }
 
@@ -2704,7 +2704,7 @@ html.no-csstransitions .home-content__main {
   }
 }
 @media only screen and (max-width: 400px) {
-  .s-works {
+  .s-order {
     padding: 9.6rem 0 21rem;
   }
 
