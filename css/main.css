@@ -626,6 +626,7 @@ select {
   font-size: 1.5rem;
   line-height: 2rem;
   max-width: 100%;
+  width:500px;
   background: rgba(200, 200, 200, 0.12);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
