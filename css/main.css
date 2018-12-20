@@ -818,8 +818,8 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  background-color: #b8b8b8;
-  border-color: #b8b8b8;
+  background-color: #bee1bd;
+  border-color: #bee1bd;
   color: #000000;
   outline: 0;
 }
