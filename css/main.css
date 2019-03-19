@@ -1920,13 +1920,10 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 html.cl-preload .home-content__main {
   opacity: 1;
-  animation-duration: 2s;
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
 }
 
 html.cl-loaded .home-content__main {
-
+  opacity: 1;
 }
 
 html.no-csstransitions .home-content__main {
